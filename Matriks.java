@@ -1,3 +1,9 @@
+/*  Tanggal : 10 Oktober 2022
+    Mata Kuliah : Aljabar Linear
+    Materi : Sistem Persamaan Linear - Operasi Baris Elementer
+    Di modifikasi oleh : Ariana Rahmawati, Evic Nur A., Nadya Frisca R.F., Rofi Fauzan A.
+*/
+
 import java.util.*;
 import java.io.*;
 
