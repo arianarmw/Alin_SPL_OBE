@@ -1,3 +1,9 @@
+/*  Tanggal : 10 Oktober 2022
+    Mata Kuliah : Aljabar Linear
+    Materi : Sistem Persamaan Linear - Operasi Baris Elementer
+    Di modifikasi oleh : Ariana Rahmawati, Evic Nur A., Nadya Frisca R.F., Rofi Fauzan A.
+*/
+
 import java.util.*;
 import java.io.*;
 
@@ -10,7 +16,7 @@ public class Main {
     }
 
     static void utama(){
-        System.out.println("\n=== SELAMAT DATANG DI PROGRAM SISTEM PERSAMAAN LINIER DENGAN OPERASI BARIS ELEMENTER ===");
+        System.out.println("\n=== PROGRAM SISTEM PERSAMAAN ===");
         System.out.println("1. Eliminasi Gauss");
         System.out.println("2. Eliminasi Gauss-Jordan");
         System.out.println("3. Metode Matriks Balikan");
